@@ -11,7 +11,7 @@ import SwiftUI
 struct CardExpanderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          FamilyWalletView()
         }
     }
 }
